@@ -1,2 +1,2 @@
 # stone-creditcard-checkout
-Desafio da Stone com iOS + Swift 3
+Desafio da Stone em iOS + Swift 3
